@@ -1,0 +1,10 @@
+{
+    "data": [
+        {
+            "name": "Test game",
+            "description": "This is a test game",
+            "image": "https://picsum.photos/id/1/300/300",
+            "url": "https://andreecy.github.io/phaser-game-test/"
+        }
+    ]
+}
